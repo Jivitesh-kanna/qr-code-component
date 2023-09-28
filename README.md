@@ -2,6 +2,7 @@
 # Frontend Mentor - QR code component solution
 This is a solution to the [QR code component challenge on Frontend Mentor]
 ### Screenshot
+![Screenshot (46)](https://github.com/Jivitesh-kanna/qr-code-component/assets/93578467/e780c190-01b3-4728-b509-2bd2decc2e1b)
 
 
 
